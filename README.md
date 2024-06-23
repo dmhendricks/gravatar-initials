@@ -9,4 +9,4 @@ https://s.gravatar.com/avatar/a5bfc9e07964f8dddeb95fc584cd965d?s=120&r=pg&d=http
 ![DH](https://s.gravatar.com/avatar/a5bfc9e07964f8dddeb95fc584cd965d?s=120&r=pg&d=https%3A%2F%2Fraw.githubusercontent.com%2Fdmhendricks%2Fgravatar-initials%2Fmain%2Fdist%2Fsky-blue%2Froboto-light%2Fdh.png)
 ![C3](https://s.gravatar.com/avatar/a5bfc9e07964f8dddeb95fc584cd965d?s=120&r=pg&d=https%3A%2F%2Fraw.githubusercontent.com%2Fdmhendricks%2Fgravatar-initials%2Fmain%2Fdist%2Fmulticolor%2Froboto-light%2Fr2.png)
 
-**Note:** You will probably want to download the images and host them yourself. This is just an example.
+**Notes:** You will probably want to download the images and host them yourself. This is just an example. Images are original, created by me, released under MIT license. Use them for whatever you want.
