@@ -9,4 +9,16 @@ https://s.gravatar.com/avatar/a5bfc9e07964f8dddeb95fc584cd965d?s=120&r=pg&d=http
 ![DH](https://s.gravatar.com/avatar/a5bfc9e07964f8dddeb95fc584cd965d?s=120&r=pg&d=https%3A%2F%2Fraw.githubusercontent.com%2Fdmhendricks%2Fgravatar-initials%2Fmain%2Fdist%2Fsky-blue%2Froboto-light%2Fdh.png)
 ![C3](https://s.gravatar.com/avatar/a5bfc9e07964f8dddeb95fc584cd965d?s=120&r=pg&d=https%3A%2F%2Fraw.githubusercontent.com%2Fdmhendricks%2Fgravatar-initials%2Fmain%2Fdist%2Fmulticolor%2Froboto-light%2Fr2.png)
 
-**Notes:** You will probably want to download the images and host them yourself. This is just an example. Images are original, created by me, released under MIT license. Use them for whatever you want.
+## Images
+
+Images are original, created by me, released under MIT license. Use them for whatever you want. The examples above link directly to this repo, but you'll probably want to download the images and host them yourself.
+
+Included characters:
+- 0-9
+- A-Z
+- 00-99
+- AA-ZZ
+- A0-Z9
+- 0A-9Z
+
+This should account for any combination of single or double letters and numbers.
