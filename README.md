@@ -8,7 +8,7 @@ https://s.gravatar.com/avatar/a5bfc9e07964f8dddeb95fc584cd965d?s=120&r=pg&d=http
 ![B](https://s.gravatar.com/avatar/a5bfc9e07964f8dddeb95fc584cd965d?s=120&r=pg&d=https%3A%2F%2Fraw.githubusercontent.com%2Fdmhendricks%2Fgravatar-initials%2Fmain%2Fdist%2Fmulticolor%2Froboto-light%2Fb.png)
 ![DH](https://s.gravatar.com/avatar/a5bfc9e07964f8dddeb95fc584cd965d?s=120&r=pg&d=https%3A%2F%2Fraw.githubusercontent.com%2Fdmhendricks%2Fgravatar-initials%2Fmain%2Fdist%2Fsky-blue%2Froboto-light%2Fdh.png)
 ![FW](https://s.gravatar.com/avatar/a5bfc9e07964f8dddeb95fc584cd965d?s=120&r=pg&d=https%3A%2F%2Fraw.githubusercontent.com%2Fdmhendricks%2Fgravatar-initials%2Fmain%2Fdist%2Fmulticolor%2Froboto-slab%2Ffw.png)
-![9C](https://s.gravatar.com/avatar/a5bfc9e07964f8dddeb95fc584cd965d?s=120&r=pg&d=https%3A%2F%2Fraw.githubusercontent.com%2Fdmhendricks%2Fgravatar-initials%2Fmain%2Fdist%2Fmuted%2Froboto-light%2F9c.png)
+![8E](https://s.gravatar.com/avatar/a5bfc9e07964f8dddeb95fc584cd965d?s=120&r=pg&d=https%3A%2F%2Fraw.githubusercontent.com%2Fdmhendricks%2Fgravatar-initials%2Fmain%2Fdist%2Fmuted%2Froboto-light%2F8e.png)
 
 ## Images
 
